@@ -1,0 +1,10 @@
+Player wins!
+It's a tie!
+Player wins!
+Computer wins!
+Computer wins!
+Computer wins!
+Computer wins!
+Computer wins!
+Computer wins!
+It's a tie!
